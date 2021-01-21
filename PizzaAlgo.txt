@@ -1,5 +1,9 @@
 Look up Pizza Websites
 Choose ingredients
 Compare Prices
-Set Up Payment
 Pick Up Options
+Address Entered
+Phone Number Entered
+Payment
+Estimated Time of Arrival
+Arrival Confirmation
